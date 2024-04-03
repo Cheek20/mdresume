@@ -1,6 +1,6 @@
 ---
-layout: cv
-title: Brigham Young's Resume
+layout: resume
+title: Cheek20 Resume
 ---
 # Brigham Young
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
@@ -8,82 +8,63 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
+
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`Expected 2026`
 
-- Full academic scholarship with 4.0 GPA
+- 3.4 GPA
 
-`Expected 2029`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+## Classes
+_•	Managerial and Cost Accounting(Interested in Cost)- Learned how to determine operating costs, flow of inventory, bottleneck concepts, and percentages that display a business’s level of efficiency__
 
+_•	Programming (SQL, VBA,  and Python)- Learned syntax and created databases to present data for decision making__
 
-## Related Experience
-
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+_•	Tax Accounting- Studied the U.S. tax system and its policies to determine filing status of individuals.__
 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+` August 2023-Present`
+__Advanced Spreadsheet Application TA__, BYUI
+
+_•	Assist students in learning syntax to create powerful spreadsheets__
+
+_•	Grade students on code indentation and processing__
+
+_•	Provide resources where students can become self-reliant in learning__
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`January 2023-August 2023`
+__Part-time Volenteer Clerk__, The Church of Jesus Christ of Latter-day Saints
+
+_•	Kept accurate records for quarterly audit__
+
+_•	Tracked expenses with physical receipts and reimburse when applicable__
+
+_•	Updated physical records on operating system and filing cabinets__
+
+`May 2023-Present`	
+__Interviewer at Ironwood Insights Group__, Rexburg, ID
+
+_•	Collect data for analysis specified to client needs__
+
+_•	Learn verbatim required for gathering accurate data__
+
+## Skills
+_•	Advanced in Excel programming and spreadsheet modeling (has certificate for basic and intermediate)__
 
 
 
 <!-- ### Footer
 
 Last updated: May 2013 -->
+
 
 
